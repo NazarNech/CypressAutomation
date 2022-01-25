@@ -1,4 +1,4 @@
-describe('Homework1', () => {
+describe('Homework2', () => {
 
     it('Open the site', () => {
       cy.visit('https://allo.ua/ru/');
