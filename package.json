@@ -1,0 +1,15 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "Cypress Automation by Nazar Nechytailo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+      },
+  "author": "Nazar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
